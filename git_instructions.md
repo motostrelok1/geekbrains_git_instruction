@@ -6,6 +6,10 @@
 
 * View -> Terminal в терминале пишем git init - инициализируем папку
 
+* введем имя пользователя git config --global user.name "itisgood" 
+
+* введем почту git config --global user.email "me@example.com"
+
 * командой git status видим, что файл не отслеживается
 
 * командой git add .\<имя файла> добавляем в репозиторий отслеживание файла
