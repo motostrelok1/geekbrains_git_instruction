@@ -18,6 +18,8 @@
 
 * пишем коммит git commit -m "<текст коммита>"
 
+* проверяем командой git Status, получаем Your branch is up to date with 'origin/<имя репозитория> nothing to commit, working tree clean
+
 * вводим команду git log и просматриваем изменения
 
 
