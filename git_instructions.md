@@ -14,6 +14,8 @@
 
 * проверяем git Status, видим красным modified: <имя отслеживаемого файла>
 
+* повторяем git add .\git_instructions.md 
+
 * пишем коммит git commit -m "<текст коммита>"
 
 
