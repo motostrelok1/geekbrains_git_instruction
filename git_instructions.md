@@ -75,3 +75,7 @@
 *git push -u origin main* - первый push(отправка) в удаленный репозиторий для синхронизации.
 
 end
+
+git log --oneline --graph --all
+
+git log --oneline --all
