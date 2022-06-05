@@ -76,6 +76,6 @@
 
 end
 
-git log --oneline --graph --all
+git log --oneline --graph --all просмотр всех ветвей
 
 git log --oneline --all
